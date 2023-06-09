@@ -1,6 +1,6 @@
 ![Project Preview](preview.PNG)
 
-##  Folder Structures
+##  *Folder Structures
 
 ```bash
 +---components
